@@ -4,7 +4,7 @@ site_url: https://jpardo20.github.io/mme-apunts/
 
 nav:
   - Inici: index.md
-  - Continguts: continguts.md
+  - Presentació: presentacio/index.html
 
 theme:
   name: material

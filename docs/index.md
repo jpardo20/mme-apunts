@@ -4,7 +4,9 @@ En aquesta web publicaré els continguts del mòdul **0221 — Muntatge i Manten
 
 <!-- Ves a **Continguts** al menú per veure què hi ha publicat. -->
 
-[Obrir presentació](/mme-apunts/index.html)
+[Obrir presentació](presentacio/)  <!-- <-- enllaç relatiu dins del site MkDocs -->
+
+<!-- [Obrir presentació](/mme-apunts/index.html) -->
 
 <!-- 
 > [!NOTE]
