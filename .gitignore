@@ -1,12 +1,14 @@
-# Python / mkdocs
+# General
+.DS_Store
+Thumbs.db
+
+# Python
 __pycache__/
-site/
+*.pyc
 
-# Office/LibreOffice temporals
-**/.~lock.*#
-~$*.docx
-~$*.pptx
-~$*.xlsx
+# Zips i derivats
+*.zip
+*.tar.gz
 
-# Cache del convertidor
-.publish-cache.json
+# Node/JS
+node_modules/
